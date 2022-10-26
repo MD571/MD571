@@ -29,7 +29,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MD571&theme=nord&column=7)](https://github.com/MD571/github-profile-trophy)
 
+## 🏆 Holopin Badges (HACKTOBERFEST 2022)
+
+[![@md571's Holopin board](https://holopin.me/md571)](https://holopin.io/@md571)
+
+
 ### 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinay-mallela-07bb8a119/) 
+
+
 
 ---
 
